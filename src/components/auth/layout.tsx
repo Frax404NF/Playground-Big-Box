@@ -38,7 +38,7 @@ export function Layout({ children }: LayoutProps): React.JSX.Element {
                 Big
               </Box>
               <Box component="span" sx={{ color: '#F15A24' }}>
-                Box
+                One Stream
               </Box>
             </Typography>
             <Typography color="darkslategrey" align="center" variant="subtitle1">
